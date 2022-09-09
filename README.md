@@ -1,7 +1,7 @@
 
 <H1 align="center">Vedant Patel's Profile/ReadMe</H1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F706&center=true&vCenter=true&width=435&lines=Hi%2C+welcome+to+my+GitHub+page;I+am+Vedant+Patel;I+really+like+working+with+Autoamtions"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F706&center=true&vCenter=true&width=460&lines=Hi%2C+welcome+to+my+GitHub+page;I+am+Vedant+Patel;I+really+like+working+with+Automations"></a>
 </p>
 
 ## About Me
