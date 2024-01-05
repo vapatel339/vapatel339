@@ -5,8 +5,7 @@
 </p>
 
 ## About Me
-- 🌱 I’m a senior at Clemson University majoring in Computer Science with a minor in Cybersecurity.
-- ⚡ BTW, I will be graduating in December 2023. 
+- ⚡ I have a Bachelor's Degree in Computer Science with minor in Cybersecurity from Clemson University 
 ---
 
 <div align="center">
